@@ -1,0 +1,427 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Pattern11",
+            "request": "launch",
+            "mainClass": "PatternProgrameuseNestedForloop.Pattern11",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Pattern10",
+            "request": "launch",
+            "mainClass": "PatternProgrameuseNestedForloop.Pattern10",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Pattern8",
+            "request": "launch",
+            "mainClass": "PatternProgrameuseNestedForloop.Pattern8",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Pattern7",
+            "request": "launch",
+            "mainClass": "PatternProgrameuseNestedForloop.Pattern7",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Pattern6",
+            "request": "launch",
+            "mainClass": "PatternProgrameuseNestedForloop.Pattern6",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Pattern4",
+            "request": "launch",
+            "mainClass": "PatternProgrameuseNestedForloop.Pattern4",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Pattern3",
+            "request": "launch",
+            "mainClass": "PatternProgrameuseNestedForloop.Pattern3",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Pattern2",
+            "request": "launch",
+            "mainClass": "PatternProgrameuseNestedForloop.Pattern2",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "PatternProgrameuseNestedForloop.pattern1",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Pattern9",
+            "request": "launch",
+            "mainClass": "PatternProgrameuseNestedForloop.Pattern9",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "ram",
+            "request": "launch",
+            "mainClass": "ram",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "StringBufferclassMethods",
+            "request": "launch",
+            "mainClass": "StringBufferClassJava.StringBufferclassMethods",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "TypeCastinginJava",
+            "request": "launch",
+            "mainClass": "TypeCastinginJava",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "ram",
+            "request": "launch",
+            "mainClass": "ArrayPrograme.ram",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "CreatingStringBuilderObject",
+            "request": "launch",
+            "mainClass": "StringBuilderClassJava.CreatingStringBuilderObject",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "CreatingStringBufferClassObject",
+            "request": "launch",
+            "mainClass": "StringBufferClassJava.CreatingStringBufferClassObject",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "CountVowelsinString",
+            "request": "launch",
+            "mainClass": "StringPrograme.CountVowelsinString",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "StringIsPalindrome",
+            "request": "launch",
+            "mainClass": "StringPrograme.StringIsPalindrome",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "StringPrograme.ReverseString",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "ArrayPrograme.Array",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "classMethodsinJavaPrograme.Main",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Demo4",
+            "request": "launch",
+            "mainClass": "classMethodsinJavaPrograme.Demo4",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "string",
+            "request": "launch",
+            "mainClass": "StringinJava.string",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "StringClassMethods",
+            "request": "launch",
+            "mainClass": "StringinJava.StringClassMethods",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "CreateStringDemo",
+            "request": "launch",
+            "mainClass": "StringinJava.CreateStringDemo",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "demo1",
+            "request": "launch",
+            "mainClass": "classMethodsinJavaPrograme.demo1",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "SumOfNaturalNumberusingRecrusion",
+            "request": "launch",
+            "mainClass": "RecursionJava.SumOfNaturalNumberusingRecrusion",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "RecursionDemo",
+            "request": "launch",
+            "mainClass": "RecursionJava.RecursionDemo",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "RecursionDemo",
+            "request": "launch",
+            "mainClass": "RecursionDemo",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Methodwithargumentwithreturnvalue",
+            "request": "launch",
+            "mainClass": "classMethodsinJavaPrograme.Methodwithargumentwithreturnvalue",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Methodwithoutargumentwithreturnvalue",
+            "request": "launch",
+            "mainClass": "classMethodsinJavaPrograme.Methodwithoutargumentwithreturnvalue",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Methodwithargumentwithoutreturnvalue",
+            "request": "launch",
+            "mainClass": "classMethodsinJavaPrograme.Methodwithargumentwithoutreturnvalue",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "classMethodsinJavaPrograme.demo",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Methodwithoutargumentwithoutreturnvalue",
+            "request": "launch",
+            "mainClass": "classMethodsinJavaPrograme.Methodwithoutargumentwithoutreturnvalue",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Demo1",
+            "request": "launch",
+            "mainClass": "classMethodsinJavaPrograme.Demo1",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "MethodDemo",
+            "request": "launch",
+            "mainClass": "classMethodsinJavaPrograme.MethodDemo",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Demo1",
+            "request": "launch",
+            "mainClass": "FunctionPrograme.Demo1",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "ArrayReverseOrder",
+            "request": "launch",
+            "mainClass": "ArrayPrograme.ArrayReverseOrder",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "arrayReverseorder",
+            "request": "launch",
+            "mainClass": "ArrayPrograme.arrayReverseorder",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "primenumbersarray",
+            "request": "launch",
+            "mainClass": "ArrayPrograme.primenumbersarray",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "MinArrayElement",
+            "request": "launch",
+            "mainClass": "ArrayPrograme.MinArrayElement",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "MaxArrayElement",
+            "request": "launch",
+            "mainClass": "ArrayPrograme.MaxArrayElement",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "SumOfArrayOddElements",
+            "request": "launch",
+            "mainClass": "ArrayPrograme.SumOfArrayOddElements",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "SumOfArrayevenElements",
+            "request": "launch",
+            "mainClass": "ArrayPrograme.SumOfArrayevenElements",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "ArrayPrograme.Demo",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDemo",
+            "request": "launch",
+            "mainClass": "ArrayPrograme.ArrayDemo",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "SingleDimensionalArrayy",
+            "request": "launch",
+            "mainClass": "ArrayPrograme.SingleDimensionalArrayy",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciSeries",
+            "request": "launch",
+            "mainClass": "IterationandSelectionLogic.FibonacciSeries",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "fibonacciSeries",
+            "request": "launch",
+            "mainClass": "fibonacciSeries",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciSeries",
+            "request": "launch",
+            "mainClass": "FibonacciSeries",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Pattern5",
+            "request": "launch",
+            "mainClass": "PatternProgrameuseNestedForloop.Pattern5",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Pattern8",
+            "request": "launch",
+            "mainClass": "Pattern8",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Pattern7",
+            "request": "launch",
+            "mainClass": "Pattern7",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Pattern6",
+            "request": "launch",
+            "mainClass": "Pattern6",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Pattern5",
+            "request": "launch",
+            "mainClass": "Pattern5",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Pattern4",
+            "request": "launch",
+            "mainClass": "Pattern4",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Pattern3",
+            "request": "launch",
+            "mainClass": "Pattern3",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "pattern1",
+            "projectName": "Java Programe_46d9bbc3"
+        }
+    ]
+}
