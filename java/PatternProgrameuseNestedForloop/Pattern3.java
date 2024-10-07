@@ -5,22 +5,35 @@ public class Pattern3
 {
     public static void main(String[] args) 
     {
-        int k=65;
-        for(int i=1;i<=4;i++)
+        for(int  i=1;i<=4;i++)
         {
             for(int j=1;j<=4;j++)
+        {
+            // System.out.print("*");
+            if(j<=i)
             {
-                if(j<=i)
-                {
-                    System.out.print((char)k+++" ");
-                }
-                else
-                {
-                     System.out.print(" ");
-                }
+                System.out.print(j);
             }
-            System.out.println("");
+            else
+            {
+                System.out.print(" ");
+            }
         }
+        int k=0;
+        for(int j=4;j>=1;j--)
+        {
+            // System.out.print("*");
+            if(j<=i)
+            {
+                System.out.print(++k);
+            }
+            else
+            {
+                    System.out.print(" ");
+            }
+        }
+        System.out.println();
+    }
         
         
     }
