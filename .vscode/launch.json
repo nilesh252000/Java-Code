@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ClassObject",
+            "request": "launch",
+            "mainClass": "ObjectOrientedProgramming.ClassObject",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
+            "name": "Pattern12",
+            "request": "launch",
+            "mainClass": "PatternProgrameuseNestedForloop.Pattern12",
+            "projectName": "Java Programe_46d9bbc3"
+        },
+        {
+            "type": "java",
             "name": "Pattern11",
             "request": "launch",
             "mainClass": "PatternProgrameuseNestedForloop.Pattern11",
